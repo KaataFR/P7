@@ -1,0 +1,12 @@
+.APropos-center {
+    width: 80%;
+    margin: auto;
+}
+
+@media screen and (max-width: 1490px) {
+    .APropos-center {
+        width: 100%;
+        margin: 0;
+    }
+
+  }

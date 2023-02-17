@@ -1,0 +1,48 @@
+header {
+    align-items: center;
+    display: inline-flex;
+    width: 70%;
+    margin: 2% auto;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+  }
+  
+  header > img {
+    height: 68px;
+  }
+  
+  nav {
+    justify-content: flex-end;
+    display: flex;
+    width: 100%;
+  }
+  
+  .lien-site {
+    color: #ff6060;
+    margin: auto 25px;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  
+  .lien-menu.active {
+      border-bottom: 1px solid #ff6060;
+  }
+  
+  @media screen and (max-width: 1490px) {
+    header {
+      margin-top: 15px;
+      width: 90%;
+
+    }
+    
+    header > img {
+      height: 47px;
+    }
+  
+    .lien-site {
+      margin: auto 10px;
+      font-size: 0.9em;
+      text-transform: uppercase;
+    }
+  }

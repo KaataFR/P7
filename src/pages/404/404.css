@@ -1,0 +1,47 @@
+.page-404 {
+  text-align: center
+}
+
+.titre-404 {
+  color: #ff6060;
+  font-size: 288px;
+  margin: 7% auto;
+}
+
+.description-404 {
+  color: #ff6060;
+  display: block;
+  font-size: 36px;
+  margin-top: 1%;
+}
+
+.lien-site.lien-404 {
+  display: block;
+  margin-top: 150px;
+  border-bottom: 1px solid #ff6060;
+  width: fit-content;
+  margin: 15% auto;
+}
+
+.page-404 .footer-container{
+  display: none;
+}
+
+@media screen and (max-width: 1490px) {
+  .page-404{
+    margin-top: 40%;
+  }
+
+  .titre-404 {
+    font-size: 96px;
+  }
+  
+  .description-404 {
+    font-size: 18px;
+  }
+
+  .lien-site.lien-404{
+    margin-top: 35%;
+    margin-bottom: 40% ;
+  }
+}
