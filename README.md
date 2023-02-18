@@ -1,30 +1,29 @@
 PROJET 7 - Kasa
 
 
-Installation
+I ) Installation :
 
-Pour installer ce projet, suivez les étapes ci-dessous:
+  Pour installer ce projet, suivez les étapes ci-dessous:
 
-Cloner le dépôt GitHub sur votre machine locale.
+      1 ) Cloner le dépôt GitHub sur votre machine locale.
 
-Ouvrez un terminal dans le répertoire du projet.
+      2) Ouvrez un terminal dans le répertoire du projet.
 
-Exécutez la commande suivante pour installer les dépendances:
+      3) Exécutez la commande suivante pour installer les dépendances:
 
-npm install
+          npm install
 
 
-Exécution
+II ) Exécution
 
 Pour exécuter le projet, suivez les étapes ci-dessous:
 
-Ouvrez un terminal dans le répertoire du projet.
+      1) Ouvrez un terminal dans le répertoire du projet.
 
-Exécutez la commande suivante:
-
-
-
-npm run start
+      2) Exécutez la commande suivante:  
+                
+          npm run start
+          
 
 Cela lancera l'application et la rendra accessible dans votre navigateur à l'adresse http://localhost:3000.
 
